@@ -25,7 +25,7 @@ Queries Implemented
 6. Indexes for Optimization 
 
 Screenshots
-Screenshots of query results are available in the [`/screenshots`](./screenshots) folder.  
+Screenshots of query results are available in the [`/screenshots`] pdf.  
 Example:  
 - `select_groupby.png` → SELECT + GROUP BY results  
 - `joins.png` → JOIN queries  
